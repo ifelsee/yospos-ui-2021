@@ -6,7 +6,25 @@
 // Or to override certain Atom core styles
 
 // -------------------
+.scrollbars-visible-always {
+  ::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    &-track {
+        border: 0px;
+        border-radius: 0px;
+    }
+    &-thumb {
+        background-color: hsl(120, 100%, 12%) !important;
+        border: 0px;
+        border-radius: 9px;
+    }
+  }
+}
 
+ // has to be bigger than webkit-scrollbar
+
+// has to be bigger than webkit-scrollbar
 
 body {
   font-size: @font-size;

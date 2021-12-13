@@ -10,7 +10,7 @@
     "yospos-ui",
     "yospos-ui 2021"
   ],
-  "repository": "https://github.com/ifelsee/yospos-ui",
+  "repository": "https://github.com/ifelsee/yospos-ui-2021/",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
