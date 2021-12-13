@@ -1,16 +1,13 @@
 {
   "name": "yospos-ui-2021",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "New yospos-ui theme that I rewrote because yospos-ui is not working in 2022",
   "keywords": [
     "ui",
-    "theme",
-    "yospos",
-    "yospos-ui",
-    "yospos-ui 2021"
+    "theme"
   ],
-  "repository": "https://github.com/ifelsee/yospos-ui-2021/",
+  "repository": "https://github.com/ifelsee/yospos-ui-2021",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
